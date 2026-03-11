@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "files": [
+    {
+      "path": "Data\\patch-4.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-4.mpq",
+      "size": 854867540,
+      "sha256": "A2FEDD9C1EFE43300B958068B01FD8171710EB0063B03536A078228FB59F4B6D"
+    },
+    {
+      "path": "Data\\patch-5.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-5.mpq",
+      "size": 15176150,
+      "sha256": "4ECCFBFDAC13FB65731E00EC91E643ACA1DE1A0368DA1F0EBEA1A23153991292"
+    },
+    {
+      "path": "Data\\patch-6.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-6.mpq",
+      "size": 1628952963,
+      "sha256": "8B175069787109B6015BE307747897B68EFF15435F9DF96723EE58CC7F0F69E2"
+    },
+    {
+      "path": "Data\\patch-7.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-7.mpq",
+      "size": 1206153740,
+      "sha256": "C61EA1B02950D28A2E7C0ED60A0BD457C172545C06B18FDCD62A6CC3D4A81DE0"
+    },
+    {
+      "path": "Data\\patch-8.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-8.mpq",
+      "size": 748840147,
+      "sha256": "F0FFAA838E87BF763A3A698C6681BA8B1EF112B1200270D22C151704C885360B"
+    },
+    {
+      "path": "Data\\patch-a.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-a.mpq",
+      "size": 510451218,
+      "sha256": "78DA199021493B2510609C39139503895410ACCEFFF3FB9CA06EA983551F4A98"
+    },
+    {
+      "path": "Data\\patch-b.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-b.mpq",
+      "size": 1662242385,
+      "sha256": "4E69E2BE64004C123C8B4187F8B13777486B9B802335E215C06D8E2BB4C0AAD7"
+    },
+    {
+      "path": "Data\\patch-c.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-c.mpq",
+      "size": 482467019,
+      "sha256": "88F2C702818AB5C80C97BE400DE2AEEA42D759DAC3427334390203FA3461B77D"
+    },
+    {
+      "path": "Data\\patch-e.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-e.mpq",
+      "size": 261871142,
+      "sha256": "F3C4281DAF855C13CD74B135AA0AB871A35E92899D700B48C4C53C6DE113DF54"
+    },
+    {
+      "path": "Data\\patch-f.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-f.mpq",
+      "size": 2034885301,
+      "sha256": "406213F6B960CFA30A03803E78BC182E86BF76B7F663A4BC955F265DE6588F94"
+    },
+    {
+      "path": "Data\\patch-g.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-g.mpq",
+      "size": 190097098,
+      "sha256": "53DE8EEAAA9479CBC66AB98F9F61C175E9C0BF451F6E04D0DF1B204988B8189C"
+    },
+    {
+      "path": "Data\\patch-p.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-p.mpq",
+      "size": 1311700509,
+      "sha256": "126B078528C39A7E03C150950956F70A1EAACC895F7438E4144695653D31E5F0"
+    },
+    {
+      "path": "Data\\patch-s.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-s.mpq",
+      "size": 166341703,
+      "sha256": "EC6F91CEEA7BDBC7E5D0B51D566A9F5D59CCC8387BF00AC2AB7069BE16096EB5"
+    },
+    {
+      "path": "Data\\patch-w.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-w.mpq",
+      "size": 27646368,
+      "sha256": "7EC1CBA81DD5D0F766C6D61971B20059FA16E4A68902AF4F1E857E6C380BFFCB"
+    },
+    {
+      "path": "Data\\patch-y.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/patch-y.mpq",
+      "size": 17547013,
+      "sha256": "8A7BA5A4EB239349A0121772A8908C20D39F797C5CEAAE39D69EA0189E2DB91F"
+    }
+  ]
+}
