@@ -33,7 +33,7 @@
     },
     {
       "path": "Data/Patch-9.mpq",
-      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1.0.0/Patch-9.mpq",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/Patch-9.mpq",
       "size": 432828778,
       "sha256": "E5056409096EA007292F89C04E26786A6D4E1BCAE43FDED660C2027CD577A9CE"
     },
@@ -99,7 +99,7 @@
     },
     {
       "path": "Interface.zip",
-      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1.0.0/Interface.zip",
+      "url": "https://github.com/FreakRaziel/McWoA/releases/download/v1/Interface.zip",
       "size": 29185703,
       "sha256": "40E8A783E0235B911F5096503598CE7EC296B29F5E606061250084A132168142"
     }
